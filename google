@@ -1,2 +1,4 @@
 welcome to jenkins
 we are learning ci/cd tool as a jenkins
+ci is continuos integration
+here both build as test will happen at a time
