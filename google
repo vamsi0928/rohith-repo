@@ -1,7 +1,2 @@
 welcome to jenkins
 we are learning ci/cd tool as a jenkins
-ci is continuos integration
-here both build as test will happen at a time
-maven is a buld tool
-git is a sc tool
-jenkins is ci/cd tool
